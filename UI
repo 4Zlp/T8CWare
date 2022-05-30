@@ -161,7 +161,7 @@ local library = {
         footer = "T8CWare | Alpha Build | (~) Days Left",
         modal = true,
         font = Enum.Font.Code, --SourceSans
-        textsize = 10,
+        textsize = 12,
         textstroke = true
     },
     theme = {
