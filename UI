@@ -1,4 +1,4 @@
--- Hexagon UI Library
+-- Mod Version of Hexagon UI Library
 local TweenService, RunService, UserInputService,gui,dragging,dragInput,dragStart,startPos,cpt,cpf,cppicking,cppickingVal,cppickingAlpha,cphue,cpsat,cpval,focused,highest,focusedBox = game:GetService("TweenService"),game:GetService("RunService"), game:GetService("UserInputService")
 local cpalpha = 0
 
@@ -157,11 +157,11 @@ local library = {
     settings = {
         guiname = "T8CWare",
 		title = "",
-		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "T8CWare",
+		logo = "", -- "http://www.roblox.com/asset/?id=6597976562",rbxassetid://4350178803
+        footer = "T8CWare | Alpha Build | (~) Days Left",
         modal = true,
         font = Enum.Font.Code, --SourceSans
-        textsize = 16,
+        textsize = 10,
         textstroke = true
     },
     theme = {
