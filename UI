@@ -155,10 +155,10 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "T8CWare",
+        guiname = "CheapWare",
 		title = "",
 		logo = "", -- "http://www.roblox.com/asset/?id=6597976562",rbxassetid://4350178803
-        footer = "T8CWare | Alpha Build | (~) Days Left",
+        footer = "CheapWare | Alpha Build | (~) Days Left",
         modal = true,
         font = Enum.Font.Code, --SourceSans
         textsize = 16,
