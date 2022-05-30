@@ -493,7 +493,7 @@ function library:CreateWindow(csize, cpos)
 		Position = UDim2.new(0,0,0,2),
 		BackgroundTransparency = 1,
 		Name = "TitleLabel",
-		Text = "Spectators",
+		Text = "Spectators list",
 		TextColor3 = self.theme.text,
 		TextStrokeTransparency = self.settings.textstroke and 0 or 1,
 		Font = self.settings.font,
